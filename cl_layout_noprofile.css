@@ -1,4 +1,6 @@
 .lockscreen_Details_aLaNw::before,
 .lockscreen_Details_aLaNw div > img {
     display: none;
+    background-color: #55CDFC; /* Light blue color for transgender flag */
+    color: #F7A8B8; /* Pink color for transgender flag */
 }

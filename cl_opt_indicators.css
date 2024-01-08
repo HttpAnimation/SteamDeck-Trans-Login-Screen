@@ -1,3 +1,5 @@
 .lockscreen_DigitIndicator_3eHNj:not(.lockscreen_Filled_i68Yl) {
     visibility: hidden;
+    background-color: #55CDFC; /* Light blue color for transgender flag */
+    color: #F7A8B8; /* Pink color for transgender flag */
 }

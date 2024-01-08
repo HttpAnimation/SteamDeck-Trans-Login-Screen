@@ -1,6 +1,6 @@
 {
-    "name": "CapyLock",
-    "author": "Capybara",
+    "name": "TransLogin",
+    "author": "HtttpAnimation",
     "version": "v0.1",
     "manifest_version": 9,
     "tabs": {
@@ -30,7 +30,7 @@
                     "name": "Color Picker",
                     "type": "color-picker",
                     "on": "Solid Color",
-                    "default": "#1b1b1b",
+                    "default": "#55CDFC",
                     "css_variable": "capylock-lock-bg",
                     "tabs": []
                 },
@@ -163,7 +163,7 @@
                     "name": "Gradient Color 1",
                     "type": "color-picker",
                     "on": "⚙️ Gradient...",
-                    "default": "#34c58e",
+                    "default": "#55CDFC",
                     "css_variable": "capylock-header-bg-grad1",
                     "tabs": []
                 },
@@ -171,7 +171,7 @@
                     "name": "Gradient Color 2",
                     "type": "color-picker",
                     "on": "⚙️ Gradient...",
-                    "default": "#2e5f80",
+                    "default": "#F7A8B8",
                     "css_variable": "capylock-header-bg-grad2",
                     "tabs": []
                 }
